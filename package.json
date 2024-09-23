@@ -1,0 +1,19 @@
+{
+  "name": "dist-zipper",
+  "version": "0.0.1-alpha.1",
+  "description": "",
+  "author": "ux-ui.pro",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ux-ui-pro/dist-zipper.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ux-ui-pro/dist-zipper/issues"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "archiver": "^7.0.1"
+  },
+  "keywords": []
+}
