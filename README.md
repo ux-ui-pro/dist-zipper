@@ -1,25 +1,21 @@
-# lands-processor
+# dist-zipper
 
 <br>
 
 &#10148; **Install**
 ```console
-$ yarn add lands-processor
+$ yarn add dist-zipper
 ```
 
 <br>
 
 &#10148; **Use**
 ```console
-$ yarn node ./node_modules/lands-processor
-```
-or
-```console
-$ yarn node ./node_modules/lands-processor path/htmlfile.html
+$ yarn node ./node_modules/dist-zipper
 ```
 
 <br>
 
 &#10148; **License**
 
-lands-processor is released under MIT license
+dist-zipper is released under MIT license
